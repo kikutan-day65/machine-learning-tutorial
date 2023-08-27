@@ -3,7 +3,7 @@
     * 人間の「学習」に相当するものであり、コンピュータに様々なデータを学習させることでデータの中にあるパターンや規則性を発見するもの
 - 深層学習(ディープラーニング)
     * ニューラルネットワークと呼ばれる人間の脳構造を模した技術を用いてデータの中にある特徴を見つけ出す役割を担う
-![machine learning overview](images\machine-learning-overview.jpg)
+![machine learning overview](images/machine-learning-overview.jpg)
 
 ## 機械学習における3つの学習法
 - 教師あり学習
@@ -30,7 +30,7 @@
 - セグメンテーション（Segmentation）
     * 画像をいくつかのオブジェクト(対象)に分割する技術
     * 例えば、一枚の画像に人と車と犬が写っている場合、それぞれを別のオブジェクトとして識別する
-    ![segmentation overview](images\segmentation-overview.jpg)
+    ![segmentation overview](images/segmentation-overview.jpg)
 - 光学文字認識（OCR: Optical Character Recognition）
     * キスト画像や印刷された文書をコンピュータが読み取り可能な文字コードに変換する技術
 - 画像生成
