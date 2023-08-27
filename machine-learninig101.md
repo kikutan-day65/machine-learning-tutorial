@@ -39,3 +39,28 @@
 - 異常検知
     * 大量の学習データと異なる振る舞いを示すデータを検出する技術
     * データ間の共通点や相違点の分析によって異常を検出する
+
+## 代表的なツール、ライブラリ
+- データ処理
+    * Numpy
+    * pandas
+- データ可視化
+    * matplotlib
+    * seaborn
+- 画像処理
+    * Opencv
+    * Pillow
+- 自然言語処理
+    * MeCab
+    * GINZA
+- 機械学習ツール
+    * Scikit-learn
+- 深層学習
+    * PyTorch
+    * TnsorFlow
+    * Keras
+    * Kubeflow
+- 強化学習
+    * OpenAI Gym
+- 深層強化学習
+    * Chainer RL
